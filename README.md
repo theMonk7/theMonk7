@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theMonk7
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Web Development and want to subsequently transition to Blockchain
 - 💞️ I’m looking to collaborate on iOS app development
 - 📫 How to reach me https://www.linkedin.com/in/utkarsh-raj-0b76a5142/
 
